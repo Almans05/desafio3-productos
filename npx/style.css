@@ -1,0 +1,63 @@
+.bgcolor {
+  background-color: darkslategray;
+}
+
+.texto-centrado {
+
+  text-align: center;
+  color: darkslategrey;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  font-style: italic;
+  
+}
+
+.texto-izquierda {
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  color: white;
+}
+
+.texto-h2 {
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  color: burlywood;
+}
+
+.texto-h2-c {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  color: darkgray;
+}
+
+.texto-h2-b {
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  color: lightblue;
+}
+
+.texto-h2-a {
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  color: beige;
+
+}
+
+.texto-h2-e {
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  color: cadetblue;
+
+}
